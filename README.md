@@ -1,6 +1,6 @@
 # MA-DLAstar
 
-Codes for Multi-agent Directionary-Labeled A*
+Codes for Multi-agent DL-A*
 
 
 
