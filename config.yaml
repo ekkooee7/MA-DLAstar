@@ -1,0 +1,4 @@
+folder_path: resource/3x5_map/edges
+weight_path: resource/3x5_map
+weight_conflict: 1
+weight_reverse: 3
